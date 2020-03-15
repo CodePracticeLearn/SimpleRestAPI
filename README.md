@@ -1,2 +1,2 @@
 # SimpleRestAPI
-Rest Api example with Http4s and Cats IO monad
+Rest API example with Http4s and Cats IO monad
